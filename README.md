@@ -18,10 +18,12 @@ css的样式初始化：assets/css
 
 使用的技术：
   vue、vue-router、vue-resource、
-  对一些图标通过第三方将图标转换成css样式\n
+  
+  对一些图标通过第三方将图标转换成css样式
   
   
   
 使用方法：
   下载该项目后,打开命令行执行 npm i或者cnpm i  下载项目需要依赖的依赖项
+  
   执行npm run dev 就会自动的打开项目。
